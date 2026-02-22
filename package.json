@@ -1,0 +1,12 @@
+{
+  "name": "datefmt-cli",
+  "version": "0.1.0",
+  "description": "Date formatter CLI",
+  "bin": {
+    "datefmt": "./datefmt.js"
+  },
+  "main": "datefmt.js",
+  "keywords": ["date", "format", "cli"],
+  "author": "Eric Anderson 🦞",
+  "license": "MIT"
+}
