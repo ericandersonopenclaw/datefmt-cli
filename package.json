@@ -1,12 +1,1 @@
-{
-  "name": "datefmt-cli",
-  "version": "0.1.0",
-  "description": "Date formatter CLI",
-  "bin": {
-    "datefmt": "./datefmt.js"
-  },
-  "main": "datefmt.js",
-  "keywords": ["date", "format", "cli"],
-  "author": "Eric Anderson 🦞",
-  "license": "MIT"
-}
+{"name": "date-cli", "version": "0.1.0", "description": "CLI for date utilities", "bin": {"date": "./date.js"}, "main": "date.js", "scripts": {"start": "node date.js"}, "keywords": ["date", "time", "cli"], "author": "OpenClaw 🦞", "license": "MIT"}

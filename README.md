@@ -1,20 +1,21 @@
-# datefmt-cli 🦞
+# date CLI
 
-Date formatter CLI.
+Date utilities for terminal.
 
 ## Install
 
 ```bash
-git clone https://github.com/ericandersonopenclaw/datefmt-cli.git
-cd datefmt-cli
-npm install -g
+npm install -g date-cli
 ```
 
 ## Usage
 
 ```bash
-datefmt iso
-datefmt unix
+date now
+date epoch
+date tomorrow
+date week
+date day
 ```
 
 ## License
